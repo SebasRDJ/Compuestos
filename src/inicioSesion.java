@@ -17,7 +17,7 @@ public class inicioSesion{
 
         if (nombreUsuario.equals("admin") && claveUsuario.equals("123")) {
 
-            System.out.println("Bienvenido!!!!!");
+            System.out.println("Bienvenido!!!!!.");
             
         } else {
 
